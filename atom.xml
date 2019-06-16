@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rianlu.github.io</id>
     <title>L Blog</title>
-    <updated>2019-06-16T01:52:24.157Z</updated>
+    <updated>2019-06-16T03:14:29.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rianlu.github.io"/>
     <link rel="self" href="https://rianlu.github.io/atom.xml"/>
@@ -10,6 +10,51 @@
     <logo>https://rianlu.github.io/images/avatar.png</logo>
     <icon>https://rianlu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, L Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[马克思主义复习]]></title>
+        <id>https://rianlu.github.io/post/ma-ke-si-zhu-yi-fu-xi</id>
+        <link href="https://rianlu.github.io/post/ma-ke-si-zhu-yi-fu-xi">
+        </link>
+        <updated>2019-06-16T03:13:51.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="马克思复习">马克思复习</h3>
+<h4 id="矛盾的同一性和斗争性-普遍性和特殊性">矛盾的同一性和斗争性、普遍性和特殊性</h4>
+<p>P37</p>
+<h4 id="马克思主义认识论的基本内容">马克思主义认识论的基本内容</h4>
+<p>实践观：实践和认识的辩证关系
+真理观：真理具有客观性、具体性和条件性
+认识观：认识具有反复性、无限性和上升性</p>
+<h4 id="感性认识的局限性">感性认识的局限性</h4>
+<p>P67</p>
+<h4 id="马克思主义认识论的根本要求">马克思主义认识论的根本要求</h4>
+<p>根本要求是一切从实际出发（P97）</p>
+<h4 id="认识的过程">认识的过程</h4>
+<p>P63</p>
+<h4 id="真理的性质">真理的性质</h4>
+<p>P74</p>
+<h4 id="什么是唯理论">什么是唯理论</h4>
+<p>唯理论又称“理性主义”，与“经验论”相对。旧哲学认识论中的一派。它只承认理性认识的可靠性，贬低感性认识的重要意义，否认理性认识依赖于感性经验。有唯心主义唯理论和唯物主义唯理论之分。</p>
+<h4 id="价值评价的标准和尺度">价值评价的标准和尺度</h4>
+<p>P90</p>
+<h4 id="社会意识的主要内容">社会意识的主要内容</h4>
+<p>P109</p>
+<h4 id="上层建筑的主要内容">上层建筑的主要内容</h4>
+<p>P121</p>
+<h4 id="科学技术在社会发展中的作用">科学技术在社会发展中的作用</h4>
+<p>P144</p>
+<h4 id="商品经济以及产生的社会历史条件">商品经济以及产生的社会历史条件</h4>
+<p>P161</p>
+<h4 id="资本输出的概念以及内容">资本输出的概念以及内容</h4>
+<p>资本输出是指资本主义国家的政府或资本家为了获取高额利润或利息在国外进行的投资和贷款。按输出资本的类型，分为借贷资本输出和生产资本输出。按资本输出的主体，分为国家资本输出和私人资本输出。</p>
+<h4 id="垄断资本主义向社会主义过渡的条件">垄断资本主义向社会主义过渡的条件</h4>
+<p>P245</p>
+<h4 id="空想社会主义早期著作和代表人物">空想社会主义早期著作和代表人物</h4>
+<p>P254</p>
+<h4 id="社会主义基本内容">社会主义基本内容</h4>
+<h4 id="共产主义实现条件">共产主义实现条件</h4>
+<p>P295</p>
+<h4 id="中国特色社会主义的成功实践对世界社会主义发展的贡献">中国特色社会主义的成功实践对世界社会主义发展的贡献</h4>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试3]]></title>
         <id>https://rianlu.github.io/post/ce-shi-3</id>
